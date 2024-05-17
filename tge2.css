@@ -257,7 +257,7 @@ div {
 }
 
 li {
-    display: list-item;
+    display: block;
     text-align: -webkit-match-parent;
     unicode-bidi: isolate;
 }
